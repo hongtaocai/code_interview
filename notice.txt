@@ -1,0 +1,53 @@
+1.
+Initialization
+2.
+Arr: length,
+Collections: size(),
+String: length();
+3.
+Integer.MAX_VALUE;
+4.
+break & continue;
+5. 
+Ascending sort;
+a < b return a-b;
+6.
+When converting between number and string. consider the special cases.
+When exchange numbers, exchange their lengths;
+7.
+if(map.keySet().contains(chare))
+8. 
+boolean
+9.
+Tree height ++;
+10.
+Find the max/min : from 1;
+11.
+Array:
+attention on both the start and end;
+12.
+Queue: LinkedList
+13.
+BFS,DFS: Start nodes could be many.
+14.
+Arrays.copyOfRange(int[], start, end(exclusive)) === substr
+15.
+binary search: left(inclusive) right(inclusive) judge left<=right at fist.
+16.
+number to string: zero ahead
+17.
+Take a string a time. Important: cache.
+18.
+Don't forget p = p.next when traverse a linked list.
+19.
+array list add at position i : add(i,object)
+20.
+pay attention: -2147483648
+21.
+rotated: equal….
+22.
+search insert: first and last;
+
+
+
+

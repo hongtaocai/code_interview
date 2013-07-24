@@ -1,0 +1,25 @@
+unsolved:
+
+Longest Palindromic Substring
+Recover Binary Search Tree
+scramble string
+text justification
+*,?...
+trapping rain water
+zigzag
+
+
+What does the 'ls' command do at system level when we type it. How is the directory and files maintained in a file system
+
+
+how you would keep track of the top ten most popular events/people ignoring noise
+Implement memmove   Answer Question
+Traverse tree in triangle fashion   Answer Question
+Solve sudoku, and then in parallel   Answer Question
+
+implement integer divide operation using multiply
+what are the language features that are missing in your favorite language
+Write code that walks thru all src code starting from a root dir. and create histogram of number of characters per line across all files.   Answer Question
+"Critique" a snippet of code pasted on collabedit.
+
+Given two sorted arrays and a number k, find the kth largest number in the union of the two arrays. Do it in place and in O(log n) 

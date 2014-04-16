@@ -37,7 +37,7 @@ public class Solution {
             return false;
         }
 
-        if(s1.length()>s2.length()){
+        if(s1.length()<s2.length()){
             String tmp = s1;
             s1 = s2;
             s2 = tmp;

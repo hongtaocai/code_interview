@@ -7,7 +7,7 @@ text justification
 *,?...
 trapping rain water
 zigzag
-
+strstr
 
 What does the 'ls' command do at system level when we type it. How is the directory and files maintained in a file system
 
